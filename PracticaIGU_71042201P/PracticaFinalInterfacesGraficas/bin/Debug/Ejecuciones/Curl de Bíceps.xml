@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfEjecucion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ejecucion>
+    <Repeticiones>21</Repeticiones>
+    <Peso>21</Peso>
+    <FechaYHora>2025-01-28T21:21:21</FechaYHora>
+  </Ejecucion>
+</ArrayOfEjecucion>

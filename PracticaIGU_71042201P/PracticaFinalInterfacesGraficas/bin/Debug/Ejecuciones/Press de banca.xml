@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfEjecucion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ejecucion>
+    <Repeticiones>352</Repeticiones>
+    <Peso>21</Peso>
+    <FechaYHora>2024-11-17T21:21:21</FechaYHora>
+  </Ejecucion>
+  <Ejecucion>
+    <Repeticiones>45</Repeticiones>
+    <Peso>45</Peso>
+    <FechaYHora>2024-11-02T23:23:23</FechaYHora>
+  </Ejecucion>
+  <Ejecucion>
+    <Repeticiones>50</Repeticiones>
+    <Peso>21</Peso>
+    <FechaYHora>2024-12-03T21:21:21</FechaYHora>
+  </Ejecucion>
+  <Ejecucion>
+    <Repeticiones>21</Repeticiones>
+    <Peso>21</Peso>
+    <FechaYHora>2025-01-28T21:21:21</FechaYHora>
+  </Ejecucion>
+</ArrayOfEjecucion>

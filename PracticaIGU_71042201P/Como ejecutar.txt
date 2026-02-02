@@ -1,0 +1,1 @@
+Descomprimir el zip, habrá una carpeta y un PDF; al entrar en la carpeta, solo será necesario entrar en bin, debug y ahí estará ejecutable .exe

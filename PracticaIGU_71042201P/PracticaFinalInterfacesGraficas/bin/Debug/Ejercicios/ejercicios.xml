@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfEjercicio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ejercicio>
+    <Nombre>Plancha</Nombre>
+    <Descripcion>Un ejercicio isométrico para trabajar el core, especialmente los abdominales</Descripcion>
+    <GruposMusculares>Core</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Curl de Bíceps</Nombre>
+    <Descripcion>Un ejercicio simple pero efectivo para desarrollar los brazos, especialmente los bíceps</Descripcion>
+    <GruposMusculares>Brazos</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Press de banca</Nombre>
+    <Descripcion>Este ejercicio se realiza en una máquina guiada y permite trabajar los músculos del pecho con mayor control.</Descripcion>
+    <GruposMusculares>Pecho</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Jalón al pecho</Nombre>
+    <Descripcion>Un ejercicio en máquina para trabajar la espalda, especialmente el dorsal ancho</Descripcion>
+    <GruposMusculares>Espalda</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Prensa de pierna</Nombre>
+    <Descripcion>Una máquina guiada para trabajar los músculos de las piernas, especialmente los cuádriceps.</Descripcion>
+    <GruposMusculares>Piernas</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Extensión de pierna</Nombre>
+    <Descripcion>Este ejercicio se enfoca en el desarrollo de los cuádriceps mediante una máquina guiada</Descripcion>
+    <GruposMusculares>Piernas</GruposMusculares>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Press de hombros</Nombre>
+    <Descripcion>Un ejercicio para trabajar los hombros utilizando una máquina guiada.</Descripcion>
+    <GruposMusculares>Brazos</GruposMusculares>
+  </Ejercicio>
+</ArrayOfEjercicio>
